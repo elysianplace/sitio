@@ -1,0 +1,514 @@
+     
+        
+    #whatsfixo{
+     display:none;
+     position:fixed;
+     height:60px;
+     width:60px;
+     top:440px;
+     left:440px; 
+    }
+    .menu{
+     /*NULO*/
+    display:none;
+    }
+    #logo{
+     height:90px;
+     width:90px;
+     left:340px;
+     top:155px;
+    }
+    #mediascreen1{
+    position: absolute;
+     left:60px;
+     top:10px;
+     font-size:182px;
+
+    }
+    #mediascreen2{
+     position:absolute;
+     left:60px;
+     top:30px;
+     font-size:42px;
+     
+    }
+    .telefones{
+     position:relative;
+     left:200px;
+     top:326px;
+     font-size:18px;
+     
+    }
+    .whatssap{
+     position:absolute;
+     left:15px;
+     width: 200px;
+
+    }
+    #mediascreen3{
+     position:relative;
+     left:60px;
+     top:-100px;
+     font-size:42px;
+    }
+     .facebook{
+     position:relative;
+     left:200px;
+     top:355px;
+     font-size:18px;
+     }
+     .quadrado{
+         position:relative;
+         left:0px;
+         top:500px;
+         width:1280px;
+     }
+     .css-slideshow{
+         position:absolute;
+         left:-370px;
+         top:360px;
+         height:100px;
+         width:0px;
+         overflow:visible;
+     }
+     .container{
+         position:absolute;
+         overflow:auto;
+         
+     }
+
+  
+
+     .contato{
+         /*NULO*/
+         position: relative;
+         top:-1000px;
+         display:none;
+     }
+     #local1{
+         position:relative;
+         top:510px;
+         left:200px;
+     }
+     #media1{
+         position:absolute;
+         top:680px;
+         left:-100px;
+         
+     }
+     .container{
+         position:absolute;
+         left:50px;
+         top:550px;;
+         height:450px;
+         width:600px;
+         
+     }
+     #infores{
+         position:absolute;
+         top:-280px;
+         left:260px;
+         font-size:22px;
+     
+     }
+     #media2{
+         position: relative;
+         left:-600px;
+         top:2160px;
+       
+     }
+     #wifi,#cama,#chuveiro{
+         position:relative;
+         height:50px;
+         width:50px;
+     }
+     #texto{
+         position: relative;
+         left:90px;
+         top:1320px;
+         font-size:18px;
+         width:500px;
+         text-align: justify;
+     }
+     #arq{
+         position: relative;
+         left:170px;
+         top:350px;
+
+     }
+     .descricoes{
+         position:absolute;
+         top:2200px;
+         left:0px;
+         width:730px;
+     }
+     
+     .ponto,.ponto2,.traço,.fundo{
+         display: none;
+     }
+
+     #possuimedia{
+         position: relative;
+         top:390px;
+         left:10px;
+         width:250px;
+     }
+     #temos{
+         position: relative;
+         left:-60px;
+         width:330px;
+         top:400px;
+     }
+     .ponto,.ponto2,.traço,.fundo{
+         position: relative;
+         top:1000px;
+         left:1000px;
+     }
+     .desc2{
+         position:absolute;
+         top:560px;
+         left:0px;
+         background-color:#a6ccfa;
+         width:700px;
+         height:450px;
+         padding:20px;
+     }
+     #temos2{
+         position: relative;
+         height:300px;
+         width:330px;
+     }
+     .textomorales{
+         position:absolute;
+         left:-310px;
+         top:2900px;
+     }
+     #lazer{
+         
+         position: relative;
+         left:240px;
+         top:-30px;
+     }
+     .folderpiscina{
+         position:absolute;
+         left:40px;
+         top:2600px;
+         height:500px;
+     }
+     .container1{
+         position:absolute;
+         left:8px;
+         top:50px;
+         height:550px;
+         width:560px;
+         overflow:auto;
+     }
+     #tipodepiscina{
+         position: absolute;
+         top:-100px;
+         left:100px;
+         width:200px;
+     }
+     #profundidade{
+        position:absolute;
+         top:-100px;
+         left:280px;      
+         width:200px;   
+     }
+     #inforarea1{
+         position:absolute;
+         top:820px;
+         left:50px;
+         font-size:17px;
+         width:500px;
+ 
+     }
+
+     .foldercampos{
+         position:absolute;
+         left:20px;
+         top:3600px;
+     }
+     .container2{
+         position:absolute;
+         left:8px;
+         top:260px;
+         height:550px;
+         width:560px;
+         overflow:auto;
+     }
+     #tipodecampos{
+         position: absolute;
+         top:105px;
+         left:100px;
+         width:200px;
+     }
+     #area{
+        position: absolute;
+         top:98px;
+         left:280px; 
+         width:200px;         
+     }
+     #inforarea2{
+         position:absolute;
+         top:1020px;
+         font-size:17px;
+         width:500px;
+         left:50px;
+         
+     }
+
+     .foldercasa{
+         position:absolute;
+         left:40px;
+         top:4800px;
+     }
+     .container3{
+         position:absolute;
+         left:8px;
+         top:120px;
+         height:550px;
+         width:560px;
+         overflow: auto;
+     }
+     #tipodecasa{
+         position: absolute;
+         top:-35px;
+         left:100px;
+         width:200px;
+     }
+     #jogo{
+        position: absolute;
+         top:-45px;
+         left:280px; 
+         width:200px;         
+     }
+     #inforarea3{
+         position:absolute;
+         top:900px;
+         font-size:17px;
+         width:500px;
+         left:50px;
+     }
+
+     .folderarquitetura{
+         position:absolute;
+         left:40px;
+         top:5900px;
+     }
+     .container4{
+         position:absolute;
+         left:8px;
+         top:120px;
+         height:550px;
+         width:560px;
+     }
+     #tipoarquitetura{
+         position: absolute;
+         top:-25px;
+         left:100px;
+         width:200px;
+     }
+     #urbanismo{
+        position: absolute;
+         top:-25px;
+         left:280px; 
+         width:200px;         
+     }
+     #inforarea4{
+         position:absolute;
+         top:880px;
+         font-size:16px;
+         width:500px;
+         left:90px;
+     }
+     #fundonatal{
+        position:absolute;
+        top:7700px;
+        left:-100px;
+     }
+     #chamada1{
+        position:absolute;
+        top:540px;
+        left:130px;
+        width:300px;
+     }
+     #comentario{
+        position:absolute;
+        left:130px;
+        top:380px;
+     }
+     #pergunta{
+        position: absolute;
+        left:130px;
+        top:100px;
+        width:300px;
+        text-align: center;
+     }
+     #sim{
+        top:210px;
+        left:160px;
+        font-size: 15px;
+        width:200px;
+     }
+     #nao{
+        top:310px;
+        left:160px;
+        font-size: 15px;
+        width:200px;
+     }
+     #fale{
+        left:100px;
+        top:700px;
+     }
+    #imgnatal{
+        display:none;
+    }
+
+     #mapafinal{
+         position: absolute;
+         top:8480px;               height:3600px;
+        width:750px;
+        
+     }
+    
+     #fundofinal{
+         position: absolute;
+         height:500px;
+         top:2500px;
+         width:750px;
+         left:-100px;
+     }
+     #media3{
+       position:relative;
+       left:80px;
+       top:-100px;
+       width:500px;
+     }
+     #endereçolocal1{
+         position: relative;
+         top:300px;
+     }
+     
+     #endereçolocal2{
+         position: relative;
+         top:220px;
+     }
+     
+     #endereçolocal3{
+         position: relative;
+         top:150px;
+     }
+     .referencias{
+         position:relative;
+         left:150px;
+         top:75px;
+         width:380px;
+     }
+     #media5{
+         position:relative;
+         left:-390px;
+     }
+
+     iframe{
+         position:relative;
+         height:300px;
+         width:300px;
+         left:580px;
+     }
+     #local2{
+         position:absolute;
+         left:570px;
+         top:-250px;
+         width:300px;
+     }
+     #atibaia{
+         position:relative;
+         left:110px;
+         top:270px;
+
+     }
+     #opc1{
+         position:relative;
+         left:80px;
+         top:350px;
+     }
+     #opc2{
+         position:relative;
+         left:80px;
+         top:600px;
+     }
+     
+     #opc3{
+         position:relative;
+         left:80px;
+         top:850px;
+     }
+       
+     #opc4{
+         position:relative;
+         left:80px;
+         top:1100px;
+     }
+     .fundowhatssap{
+         position:absolute;
+         height:320px;
+         top:-150px;
+         left:-115px;
+     }
+     #media6{
+           position:absolute;
+           height:320px;
+           top:-10px;
+           left:-565px;
+     }
+     #media7{
+         position:absolute;
+         height:320px;
+         top:-70px;
+         left:-115px;
+     }
+     #festa{
+         position: absolute;
+         top:600px;
+         left:350px;
+         font-size:15px;
+         width:300px;
+     }
+     #fundocompre{
+         position: fixed;
+         top:0px;
+         left:0px;
+         border-radius:0px;
+         width:800px;
+         height:40px;
+         text-align: center;
+         background-color: #12356e;
+     }
+     #compre{
+         display:flex;
+         position: fixed;
+         background:#12356e;
+         left:270px;
+         font:20px;
+         color:white;
+         border-radius: 20px;         
+         width:1280px;
+         font-size:50px;
+                             }
+     #natal{
+         position: absolute;
+         top:520px;
+     }
+     #natal{
+         display:flex;
+         position: relative;
+         top:650px;
+         left:300px;
+         width:250px;
+     }
+     
+     
+     
+     
+ 
